@@ -271,9 +271,3 @@ Possible future enhancements:
 - Advanced evaluation metrics
 
 ---
-
-# 👨‍💻 Author
-
-Joshua
-
-AI Club Induction Submission
